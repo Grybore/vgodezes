@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "vgomock",
   "version": "1.0.0",
@@ -14,3 +15,21 @@
     "koa-static": "^4.0.2"
   }
 }
+=======
+{
+  "name": "vgomock",
+  "version": "1.0.0",
+  "description": "Mock of the VGO API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "koa": "^2.5.1",
+    "koa-bunyan-logger": "^2.0.0",
+    "koa-qs": "^2.0.0",
+    "koa-router": "^7.4.0",
+    "koa-static": "^4.0.2"
+  }
+}
+>>>>>>> 0a276c0d594bd0ccc1910be31f0fc259c6319449
